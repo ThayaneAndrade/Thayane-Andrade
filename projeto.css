@@ -1,0 +1,72 @@
+.tabela{
+    border-style: solid;
+    border-color:blue;
+    margin: 10px;
+    padding: 20px;
+    width: 1090;
+    height: 200px;
+    text-align: center;
+    background-color:bisque ;
+    color:darkgreen;
+    font-size:50pt
+    
+}
+
+.img1{
+ display:inline;
+ height: 400px;
+ width: 200px;
+
+}
+
+.img2{
+    display:inline;
+    height: 400px;
+    width:200px ;
+   
+   }
+
+   .img3{
+    display:inline;
+    height: 400px;
+    width: 200px;
+  
+   
+   }
+
+.menu{
+    display: block;
+    background-color: lightskyblue;
+    text-align: center;
+   
+    
+}
+
+body{
+    background-color: lightgray;
+}
+
+#home{
+    display:inline;
+ 
+}
+
+.centro{
+    text-align: center;
+}
+
+#texto1{
+    font-size: 20pt;
+    font-family: sans-serif;
+}
+
+#texto2{
+    font-size: 20pt;
+    font-family: sans-serif;
+}
+
+#texto3{
+    font-size: 20pt;
+    font-family: sans-serif;
+}
+
