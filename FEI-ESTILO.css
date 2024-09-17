@@ -1,0 +1,66 @@
+.sociais {
+    display: flex; 
+    background-color: rgb(78, 78, 78);
+    flex-direction: row;
+    flex-wrap:wrap;
+    justify-content:space-around;
+    height: 25px;
+    font-family: Arial;
+    align-content: center;
+    color:gray
+}
+
+.imagens{
+    flex-direction:row ;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    display:flex
+    
+}
+
+#fei{
+    padding:25px 
+}
+
+.conhecer{
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    display: flex;
+    background-color: darkblue;
+    height:30px;
+    color: white;
+    font-family: arial;
+    align-content: center;
+}
+
+.projetos{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-content: center;
+}
+
+.conheça{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    color:darkblue;
+    padding:50px;
+    font-family: arial;
+    font-size: 40px;
+    
+
+}
+
+#a{
+    border-color:darkblue;
+    color:darkblue;
+
+
+}
+
+.contato{
+    
+}
+
